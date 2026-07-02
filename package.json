@@ -1,0 +1,13 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "Мой первый проект на GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Влад Коваленко",
+  "license": "ISC"
+}
